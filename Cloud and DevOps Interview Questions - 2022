@@ -1,0 +1,31 @@
+1. Microservices Experiences.
+2. Integration to cloud from microservices
+3. Service endpoints and private endpoints
+4. securing applications in cloud
+5. Will you do solution design or handson? They want more in solution design
+6. Do I have python experience
+7. Talk about you experience in cloud, devops and if possible any challenges
+
+1. What Architecture do you recommend for case ( retail store application )
+2. can you talk about more on HLD and LLD
+3. daily 1 gb of log data, Storage options
+4. Do you have experience on IAAS and PAAS services
+5. Write Terraform code for creating Vm
+6. Talk about terraform lifecycle with the above code
+7. Write Azure CICD pipeline script
+8. Can you include Security Scan as well inside the stages
+9. What does sonar scan used in this stages
+10. Are aware of Helm
+11. What is the need for Helm in compare with traditional deployment
+12. Can you please talk more on folder structure with helm
+13. Can you migrate a pod from one node to another node and do we need a downtime 
+14. e.g. Cosmos DB, how you will communicate to other services?
+15. Do you know private endpoints ?
+16. can you explain about service endpoints and private endpoints
+17. Where you will configure private endpoints
+18. How do you execute or deploy resources to azure cloud in devops?What permission needed.
+
+Business case and Solution design for that.
+there is a application running in azure and does have 200 microservices serving backend
+application does have web users and there are mobile users for the application.
+can you draw a solution design for the above statement?.
